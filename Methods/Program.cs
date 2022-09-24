@@ -56,5 +56,5 @@ string Method4(int count, string text) // будем строку text друг 
     }
     return result;
 }
-string res = Method4(10, "ТекстХот");
+string res = Method4(10, "ТекстНям");
 // Console.WriteLine(res);
